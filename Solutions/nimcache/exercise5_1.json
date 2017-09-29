@@ -1,9 +1,0 @@
-{"compile":[
-],
-"link":[
-"/home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/exercise5_1.o",
-"/home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/stdlib_system.o",
-"/home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/stdlib_parseutils.o"
-],
-"linkcmd": "gcc   -o /home/kaan/Bureau/GitProjects/practical-nim/Solutions/exercise5_1  /home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/exercise5_1.o /home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/stdlib_system.o /home/kaan/Bureau/GitProjects/practical-nim/Solutions/nimcache/stdlib_parseutils.o    -ldl"
-}
